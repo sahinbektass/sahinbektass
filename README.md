@@ -2,7 +2,7 @@
 <h3 align="center">Elvend Yazılım Kurucusu - .Net Developer</h3>
 
 ### Çalışmalarım
-- 🔭 I’m currently working on [EnOkul](pl1)
+- 🔭 Şuan da [EnOkul](pl1)(Okullarda sınav sonuçlarının analizi) projesi üzerinde çalışıyorum
 
 - 🌱 I’m currently learning **test4**
 
