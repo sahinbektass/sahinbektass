@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bektaş ŞAHİN</h1>
 <h3 align="center">Elvend Yazılım Kurucusu - .Net Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/azaddoru" target="blank"><img src="https://img.shields.io/twitter/follow/azaddoru?logo=twitter&style=for-the-badge" alt="azaddoru" /></a> </p>
-
 - 🔭 I’m currently working on [test1](pl1)
 
 - 🌱 I’m currently learning **test4**
