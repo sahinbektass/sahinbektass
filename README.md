@@ -2,21 +2,13 @@
 <h3 align="center">Elvend Yazılım Kurucusu - .Net Developer</h3>
 
 ### Çalışmalarım
-- 🔭 Şuan da [EnOkul](pl1)(Okullarda sınav sonuçlarının analizi) projesi üzerinde çalışıyorum
+- 🔭 Şuanda [EnOkul](pl1)(Okullarda sınav sonuçlarının analizi) projesi üzerinde çalışıyoruz
 
-- 🌱 I’m currently learning **test4**
+- 🌱 Şuanda **Flutter & Dart** öğreniyorum
 
-- 👯 I’m looking to collaborate on [test2](pl2)
+- 💬 **.Net Framework** hakkında sorular sorabilirsiniz.
 
-- 🤝 I’m looking for help with [test3](pl3)
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **sahinbektass@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📫 **sahinbektass@gmail.com** mail adresinden ulaşabilirsiniz.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
